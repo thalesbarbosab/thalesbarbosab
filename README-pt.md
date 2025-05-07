@@ -5,7 +5,7 @@
 
 # 👋 Bem-vindo ao Meu Perfil!
 
-É um prazer receber você no meu perfil. Meu nome é **Thales**.
+É um prazer receber você no meu perfil. Meu nome é **Thales Bento**.
 
 ## 💡 Sobre Mim
 
