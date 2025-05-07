@@ -1,6 +1,6 @@
 ## 🌍 Escolha o Idioma
 
-[![English](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-blue?style=flat-square)](README.md)  
+[![English](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-blue?style=flat-square)](README.md)
 [![Português](https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Português-green?style=flat-square)](README-pt.md)  
 
 # 👋 Bem-vindo ao Meu Perfil!
