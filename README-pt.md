@@ -42,8 +42,4 @@ Sinta-se à vontade para me encontrar em:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thalesbento/) 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@thales-barbosa-bento) 
 [![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:dev.tbarbosa.bento@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/thalesbarbosab)  
-
----
-
-✨ _Continue aprendendo, inovando e criando soluções que fazem a diferença!_ 🚀  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/thalesbarbosab)
