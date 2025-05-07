@@ -5,7 +5,7 @@
 
 # 👋 Welcome to My Profile!
 
-It's a pleasure to welcome you to my profile. My name is **Thales**.
+It's a pleasure to welcome you to my profile. My name is **Thales Bento**.
 
 ## 💡 About Me
 
@@ -43,7 +43,3 @@ Feel free to reach out on:
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@thales-barbosa-bento)
 [![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:dev.tbarbosa.bento@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/thalesbarbosab)
-
----
-
-✨ _Keep learning, keep innovating, and keep creating solutions that matter!_ 🚀  
