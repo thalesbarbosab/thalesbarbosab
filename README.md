@@ -37,6 +37,7 @@ Since joining the **information technology field in 2010**, I have developed exp
 Let's connect and build amazing solutions together!  
 Feel free to reach out on:
 
+[![Portifolio](https://img.shields.io/badge/Portif%C3%B3lio-2CD142)](http://bento.net.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thalesbento/)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@thales-barbosa-bento)
 [![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:dev.tbarbosa.bento@gmail.com)
