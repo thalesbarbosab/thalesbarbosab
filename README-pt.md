@@ -15,7 +15,7 @@ _"Tudo o que fizerem, façam de todo o coração, como para o Senhor e não para
 ## 🚀 Tecnologias & Ferramentas
 
 Atualmente, foco no desenvolvimento de software **mobile** e **web**, utilizando:
-- 💻 **Linguagens & Frameworks** → PHP, Laravel, MySQL, Javascript, HTML | Bootstrap CSS, Dart, Flutter  
+- 💻 **Linguagens & Frameworks** → PHP, Laravel, Symfony, Python, Django, MySQL, Javascript, HTML | Bootstrap CSS, Dart, Flutter  
 - ☁️ **Plataformas & Nuvem** → Android, AWS, Linux, Windows  
 - 🛠 **Ferramentas de Desenvolvimento** → Visual Studio Code, Cursor (Edição de código com IA), Vagrant, Laravel Homestead, Docker, Git, GitHub, GitHub Desktop
 
