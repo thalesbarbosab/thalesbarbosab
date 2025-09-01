@@ -15,7 +15,7 @@ _"Whatever you do, work at it with all your heart, as working for the Lord, not 
 ## 🚀 Technologies & Tools
 
 Currently, I focus on **mobile** and **web** software development, using:  
-- 💻 **Languages & Frameworks** → PHP, Laravel, MySQL, JavaScript, HTML | Bootstrap CSS, Dart, Flutter  
+- 💻 **Languages & Frameworks** → PHP, Laravel, Symfony, Python, Django, JavaScript, HTML | Bootstrap CSS, Dart, Flutter  
 - ☁️ **Platforms & Cloud** → Android, AWS, Linux, Windows  
 - 🛠 **Development Tools** → Visual Studio Code, Cursor (AI-powered code editing), Vagrant, Laravel Homestead, Docker, Git, GitHub, GitHub Desktop  
 
